@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2016-03-05 14:49:00
+  team1: MyString
+  team2: MyString
+  result1: 1
+  result2: 1
+  league: MyString
+  winner: MyString
+
+two:
+  date: 2016-03-05 14:49:00
+  team1: MyString
+  team2: MyString
+  result1: 1
+  result2: 1
+  league: MyString
+  winner: MyString
